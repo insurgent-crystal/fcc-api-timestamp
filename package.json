@@ -1,0 +1,28 @@
+{
+  "name": "fcc-api-projects-boilerplate",
+  "author": "Christopher Sychev",
+  "description": "A trivial project that converts strings into utc and unix timestamps",
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githost.com/camper/repo.git"
+  }
+}
